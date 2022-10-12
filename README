@@ -1,0 +1,36 @@
+## Desarrollado por Armando Tovar
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+
+# Prueba Técnica
+
+Aplicación desarrollada en ReactNative que se conecte a la API de autenticación
+por JWT y que con el diseño compartido previamente.
+
+## Característica
+
+Órdenes de servicios (pantalla)
+
+- Detalle de una orden de servicio (pantalla)
+- Detalle de jornada laboral (pantalla)
+- Inicio de sesión (pantalla y con api)
+  or web apps!
+
+## Instalación
+
+Requires [Node.js](https://nodejs.org/) and fontFamily 'antoutline' to run.
+
+sh
+npm i --force
+
+npm run android
+
+## Plugins
+
+| Plugin     | README                          |
+| ---------- | ------------------------------- |
+| Ant Desing | https://rn.mobile.ant.design/   |
+| TypeScript | https://www.typescriptlang.org/ |
